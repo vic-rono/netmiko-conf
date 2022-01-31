@@ -14,7 +14,7 @@ cisco  commands nano cisc_cmds
 core switch commands nano core_cmds
 ![Screenshot (43)](https://user-images.githubusercontent.com/61822296/151784829-e58f7b8f-0796-484e-b7ed-1532186c6b55.png)
 
-switch configuration on the docker container
+switch configuration on the UBUNTU server
 ![Screenshot (40)](https://user-images.githubusercontent.com/61822296/151784835-4f64abd3-5717-4262-b0f7-5572450240ce.png)
 
 
